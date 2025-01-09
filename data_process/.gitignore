@@ -1,0 +1,20 @@
+*/__init__.py
+*.log
+*.db
+*.cfg
+*.pid
+*.out
+*.err
+logs/*
+*__pycache__/
+*.idea/
+# *.ipynb
+# *.ipynb_checkpoints
+*.airflowignore
+.venv
+venv
+
+__init__.py
+package/config/*
+dev/*
+test
